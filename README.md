@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### I'm Julian Lewandowski
-## Frontend Developer. I specialize in writing React.js apps, especially those using Next.js. Nice to meet you! 🤠
+## I'm Julian Lewandowski
+# Frontend Developer. I specialize in writing React.js apps, especially those using Next.js. Nice to meet you! 🤠
 
 🛠️ Tech stack
 <p align="center">
